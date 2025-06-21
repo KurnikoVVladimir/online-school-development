@@ -1,5 +1,0 @@
-countClickOnMath = 0
-countClickOnRus = 0
-countClickOnChem = 0
-countClickOnEng = 0
-countClickOnInfor = 0

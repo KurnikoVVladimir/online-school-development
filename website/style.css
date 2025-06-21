@@ -38,8 +38,19 @@ body {
 .navbar a:hover {
   color: #007BFF;
 }
-
-
+.modal{
+  position: fixed;
+  display: flex;
+  flex-flow: nowrap;
+  background-color: rgba(0, 0, 0, 0.274);
+  padding: 2rem;
+  margin: auto;
+}
+.modal-reg{
+  background-color: #ffffff;
+  width: 600px;
+  width: 100%;
+}
 .main {
   padding: 2rem;
   max-width: 1200px;
